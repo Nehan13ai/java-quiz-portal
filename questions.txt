@@ -1,0 +1,7 @@
+Which component executes Java bytecode?|JDK|JRE|JVM|Java Compiler|3
+Which data type has the largest memory size?|int|float|double|long|3
+Which OOP pillar bundles data and methods together?|Inheritance|Polymorphism|Encapsulation|Abstraction|3
+Which method must be implemented by a Runnable class?|start()|run()|execute()|init()|2
+Which collection class uses key-value pairs?|ArrayList|HashSet|HashMap|LinkedList|3
+Which keyword is used to inherit a class in Java?|implements|extends|super|this|2
+What is the default value of a boolean variable in Java?|true|false|null|0|2
